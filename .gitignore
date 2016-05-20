@@ -1,0 +1,14 @@
+.idea/
+.gradle/
+build/
+out/
+*/gen/
+*/bin/
+*/build/
+*.iml
+local.properties
+
+# OS X
+.DS_Store
+
+scratch
